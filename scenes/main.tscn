@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://swpd7rmdqhkc"]
 
 [node name="Main" type="Node3D"]
+
+[node name="Bad_Move" type="Node" parent="."]
